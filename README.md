@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Claire (梁曦)
 
-<!--
-**claire2425/claire2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a statistics graduate who recently completed an MSc in Data Science at University College London and is now based in Taipei, Taiwan.
 
-Here are some ideas to get you started:
+My work centres on statistical modelling, Bayesian methods and model evaluation. Most of it asks how far a model's output can be trusted.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured project:** [Landslide susceptibility mapping with uncertainty quantification](https://github.com/claire2425/cox_landslide_R) (R, Stan)
+
+**Tools:** R · Python · SQL · SAS · Stan
+
+Currently looking for roles in data science, statistical modelling and risk analytics.
+
+[LinkedIn](https://www.linkedin.com/in/hsi-liang-claire/)
