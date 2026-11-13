@@ -4,7 +4,10 @@ I'm a statistics graduate who recently completed an MSc in Data Science at Unive
 
 My work centres on statistical modelling, Bayesian methods and model evaluation. Most of it asks how far a model's output can be trusted.
 
-**Featured project:** [Landslide susceptibility mapping with uncertainty quantification](https://github.com/claire2425/cox_landslide_R) (R, Stan)
+**Featured projects:**
+
+- [Landslide susceptibility mapping with uncertainty quantification](https://github.com/claire2425/cox_landslide_R): MSc dissertation at UCL (R, Stan)
+- [Journey Log](https://github.com/claire2425/journey-log-travel-tracker): a travel log and trip expense splitter, built as an installable web app. Next.js · TypeScript · Supabase · [Live app](https://journey-log-beta.vercel.app)
 
 **Tools:** R · Python · SQL · SAS · Stan
 
