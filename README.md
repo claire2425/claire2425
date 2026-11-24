@@ -7,7 +7,7 @@ My work centres on statistical modelling, Bayesian methods and model evaluation.
 **Featured projects:**
 
 - [Landslide susceptibility mapping with uncertainty quantification](https://github.com/claire2425/cox_landslide_R): MSc dissertation at UCL (R, Stan)
-- [Journey Log](https://github.com/claire2425/journey-log): a travel log and multi-currency trip expense splitter, built as an installable web app. Next.js · TypeScript · Supabase · [Live app](https://journey-log-beta.vercel.app)
+- [Jourmark (逐拾)](https://github.com/claire2425/jourmark): a bilingual, local-first travel and memory app integrating journey tracking, trip planning, multi-currency expense sharing and arts & events tickets. Next.js · TypeScript · Supabase · [Live app](https://jourmark.com)
 
 **Tools:** R · Python · SQL · SAS · Stan
 
